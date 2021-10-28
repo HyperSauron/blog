@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://hypersauron.github.io/blog"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,15 +7,15 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "Sauron Blog"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "冥王サウロン"
+    bio = "Discord荒らしです"
     avatar = "img/avatar.png"
 
 [Params]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "32_aarr"
+  github = "hypersauron"
 
 [Params.sidebar]
     home = "right"
